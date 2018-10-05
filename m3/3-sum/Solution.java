@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ThreeSum {
+public class Solution {
 
 	 public static int count(int[] arr) {
 	        int n = arr.length;
